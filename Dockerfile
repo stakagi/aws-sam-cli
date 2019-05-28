@@ -5,4 +5,4 @@ RUN brew upgrade && brew update && \
     brew install aws-sam-cli
     
 RUN brew install awscli
-    
+RUN brew install nodejs
